@@ -1,0 +1,14 @@
+C:\My_Stuff\Academics\Projects\TsManagement\bin\Debug\TsManagement.exe.config
+C:\My_Stuff\Academics\Projects\TsManagement\bin\Debug\TsManagement.exe
+C:\My_Stuff\Academics\Projects\TsManagement\bin\Debug\TsManagement.pdb
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.CfrmMain.resources
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.Properties.Resources.resources
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.csproj.GenerateResource.cache
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.csproj.CoreCompileInputs.cache
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.exe
+C:\My_Stuff\Academics\Projects\TsManagement\obj\Debug\TsManagement.pdb
+C:\My_Stuff\Academics\Projects\TSManagement\bin\Debug\dbTsManagement.mdf
+C:\My_Stuff\Academics\Projects\TSManagement\bin\Debug\dbTsManagement_log.ldf
+C:\My_Stuff\Academics\Projects\TSManagement\obj\Debug\TsManagement.Forms.frmCreditor.resources
+C:\My_Stuff\Academics\Projects\TSManagement\obj\Debug\TsManagement.Forms.frmMessageBox.resources
+C:\My_Stuff\Academics\Projects\TSManagement\obj\Debug\TsManagement.csprojAssemblyReference.cache
