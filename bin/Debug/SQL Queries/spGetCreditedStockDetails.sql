@@ -1,9 +1,0 @@
-﻿CREATE Procedure spGetCreditedStockDetails
-				@StockDate_YYYYMM VarChar(7)
-As
-Begin
-	Select CS.CREDITOR_ID, S.STOCK_ID ,C.CREDITOR_Name ,CS.AMOUNT_TO_BE_PAID , CS.DATE_ISSUED 
-	From CREDITEDSTOCK CS Join CREDITOR C
-			On CS.CREDITOR_ID = C.CREDITOR_ID Join STOCK S On CS.STOCK_ID = S.STOCK_ID 
-	Where CS.STOCK_ID = @StockDate_YYYYMM;
-End
