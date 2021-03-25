@@ -79,18 +79,6 @@
       <DependentUpon>CfrmMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Data\AppDbContext.cs" />
-    <Compile Include="Forms\frmCreditor.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frmCreditor.Designer.cs">
-      <DependentUpon>frmCreditor.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\frmMessageBox.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frmMessageBox.Designer.cs">
-      <DependentUpon>frmMessageBox.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202103230153295_Initial.cs" />
     <Compile Include="Migrations\202103230153295_Initial.designer.cs">
       <DependentUpon>202103230153295_Initial.cs</DependentUpon>
@@ -100,12 +88,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CfrmMain.resx">
       <DependentUpon>CfrmMain.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frmCreditor.resx">
-      <DependentUpon>frmCreditor.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frmMessageBox.resx">
-      <DependentUpon>frmMessageBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202103230153295_Initial.resx">
       <DependentUpon>202103230153295_Initial.cs</DependentUpon>
@@ -134,9 +116,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Images\download.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
@@ -148,9 +127,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
