@@ -28,3 +28,23 @@ C:\My_Stuff\Academics\Projects\VERY IMPORTANT\TsManagement\bin\Debug\EntityFrame
 C:\My_Stuff\Academics\Projects\VERY IMPORTANT\TsManagement\obj\Debug\TsManagement.csprojAssemblyReference.cache
 C:\My_Stuff\Academics\Projects\VERY IMPORTANT\TsManagement\obj\Debug\TsManagement.csproj.CopyComplete
 C:\My_Stuff\Academics\Projects\VERY IMPORTANT\TsManagement\obj\Debug\TsManagement.Migrations.Initial.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\TsManagement.exe.config
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\TsManagement.exe
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\TsManagement.pdb
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\EntityFramework.dll
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\EntityFramework.xml
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.csprojAssemblyReference.cache
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.CfrmMain.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.Migrations.Initial.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.Properties.Resources.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.csproj.GenerateResource.cache
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.csproj.CoreCompileInputs.cache
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.csproj.CopyComplete
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.exe
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.pdb
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.userControlChickens.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.UserControls.userControlAbout.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.UserControls.userControlLoans.resources
+C:\My_Stuff\Academics\Projects\GitHubProjects & Others\TsManagement\obj\Debug\TsManagement.UserControls.userControlsUsers.resources

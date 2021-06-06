@@ -87,6 +87,30 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\userControlAbout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\userControlAbout.Designer.cs">
+      <DependentUpon>userControlAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\userControlChickens.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\userControlChickens.Designer.cs">
+      <DependentUpon>userControlChickens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\userControlLoans.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\userControlLoans.Designer.cs">
+      <DependentUpon>userControlLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\userControlsUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\userControlsUsers.Designer.cs">
+      <DependentUpon>userControlsUsers.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CfrmMain.resx">
       <DependentUpon>CfrmMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -102,6 +126,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UserControls\userControlAbout.resx">
+      <DependentUpon>userControlAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\userControlChickens.resx">
+      <DependentUpon>userControlChickens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\userControlLoans.resx">
+      <DependentUpon>userControlLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\userControlsUsers.resx">
+      <DependentUpon>userControlsUsers.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
